@@ -9,7 +9,9 @@ int main() {
 	int test3 = 0;
 	int test4 = 0;
 
-	cout << "merge test 01";
+	cout << "test1 commit1 01";
+	cout << "test1 commit1 02";
+	cout << "test1 commit1 03";
 
 	return 0;
 }
