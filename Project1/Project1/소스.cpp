@@ -13,5 +13,7 @@ int main() {
 	cout << "test1 commit1 02";
 	cout << "test1 commit1 03";
 
+	couut << "cherry pick 01";
+
 	return 0;
 }
