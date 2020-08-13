@@ -13,5 +13,9 @@ int main() {
 	cout << "test1 commit1 02";
 	cout << "test1 commit1 03";
 
+	cout << "master branch1";
+	cout << "master branch2";
+	cout << "master branch3";
+
 	return 0;
 }
